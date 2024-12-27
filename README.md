@@ -49,4 +49,4 @@ Open zomato_analysis.ipynb in Jupyter Notebook and run the cells sequentially.
 This project is licensed under the MIT License.
 
 # Contact
-For inquiries, please reach out to [your-email@example.com].
+For inquiries, please reach out to https://www.linkedin.com/in/arvind-kumar-424554196/
